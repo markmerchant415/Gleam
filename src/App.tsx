@@ -10,6 +10,7 @@ import TransactionDemo from './components/TransactionDemo';
 import SecurityExplainer from './components/SecurityExplainer';
 import DashboardPreview from './components/DashboardPreview';
 import BlockchainVisualization from './components/BlockchainVisualization';
+import { Analytics } from "@vercel/analytics/react"
 import { 
   ArrowRight, 
   Shield, 
